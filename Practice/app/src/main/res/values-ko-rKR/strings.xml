@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">PracticeApp</string>
+    <string name="hello_world">헬로월드</string>
+    <string name="click_button2">클릭</string>
+</resources>
