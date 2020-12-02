@@ -10,10 +10,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var actionBar : ActionBar?
-        actionBar = supportActionBar;
-        actionBar?.hide()
-
         var tv = findViewById(R.id.CountNum) as TextView
         var cnt = 1
         kotlin.concurrent.timer(period = 1000){
