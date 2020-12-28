@@ -1,3 +1,5 @@
+// made by jongja 
+
 package com.example.practiceapp
 
 import androidx.appcompat.app.AppCompatActivity
